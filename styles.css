@@ -1,0 +1,56 @@
+body {
+    
+    background-color: #276491;
+    
+    margin:0;
+    padding:0;
+
+    display:grid;
+    grid-template-columns: 1fr 5fr 1fr;
+
+}
+.playboard {
+    min-height: 100vh;
+
+}
+.player_column {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#player_one {
+    background-color: salmon;
+   
+
+}
+
+#playing_board {
+    background-color: olive;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+#player_two {
+    background-color: sandybrown;
+}
+
+.playerboard__graphics {
+    background-color: indianred;
+    min-height: 70vh;
+
+}
+
+.playerboard__scores {
+    background-color: mistyrose;
+    min-height: 20vh;
+
+}
+
+#tree_frame {
+    overflow: hidden;
+    width: 362px;
+    height: 613px;
+}
