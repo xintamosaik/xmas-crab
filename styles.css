@@ -51,10 +51,15 @@ body {
 }
 #crab_ground {
     width:80%;
+    min-height: 20vh;
     margin-left: 10%;
     margin-right: 10%;
     /* background-color: antiquewhite; */
     background-color: #276491;
+    /* border:1px solid red; */
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: nowrap;
 }
 
 #tree_frame {
@@ -65,9 +70,10 @@ body {
 
 #crab_object {
     animation-name: crap_dance;
-    animation-duration: 4s;
+    animation-duration: 8s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
+    animation-timing-function: linear;
 }
 
 @keyframes crap_dance {
