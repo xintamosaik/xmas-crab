@@ -31,6 +31,6 @@
 <circle id="right_pupil" cx="62.9471" cy="33.3731" r="2.5" transform="rotate(3.41698 62.9471 33.3731)" fill="black"/>
 <path id="left_arm" d="M11.8926 34.3337L16.8651 32.745C18.3874 42.784 22.6236 45.4725 31.6564 48.9844L27.7193 52.555C18.6159 48.1109 14.8684 44.3803 11.8926 34.3337Z" fill="#FF0000" stroke="#FF0000"/>
 <path id="right_arm" d="M92.9154 34.8923L87.8895 33.4815C86.7253 43.5683 82.5875 46.4059 73.6854 50.2369L77.747 53.6652C86.6866 48.8999 90.2989 45.0384 92.9154 34.8923Z" fill="#FF0000" stroke="#FF0000"/>
-<animateTransform attributeName="transform" dur="3s" keyTimes="0;0.3;0.5;1" repeatCount="indefinite" values="0;0, -40; 0;0" /> 
+<!-- <animateTransform attributeName="transform" dur="3s" keyTimes="0;0.3;0.5;1" repeatCount="indefinite" values="0;0, -40; 0;0" />  -->
 </g>
 </svg>
