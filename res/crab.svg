@@ -2,22 +2,28 @@
 <g id="crab">
 <path id="body" d="M80.833 60.9881C80.2898 70.0846 61.9049 79.3927 49.225 78.6356C36.545 77.8785 23.8009 68.2144 24.344 59.1179C24.8872 50.0214 43.2721 40.7134 55.952 41.4705C68.632 42.2276 81.3761 51.8916 80.833 60.9881Z" fill="#FF0000"/> 
 <path id="left_leg_top" d="M11.6576 61.8668C17.3488 56.3117 20.6124 54.5781 26.8096 58.6504L27.6292 62.8204C21.8891 58.3185 18.3584 58.3845 11.6576 61.8668Z" fill="#FF0000" stroke="#FF0000">
-<animateTransform attributeName="transform" dur="0.3s" keyTimes="0;0.7;0.9;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+<animateTransform attributeName="transform" dur="0.59s" keyTimes="0;0.7;0.8;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
 </path>
 <path id="left_leg_middle" d="M10.5923 71.3202C13.5349 63.9826 18.1351 61.5071 25.64 62.5795L27.4674 65.5296C20.3015 63.9604 15.4888 64.8144 10.5923 71.3202Z" fill="#FF0000" stroke="#FF0000">
-<animateTransform attributeName="transform" dur="0.3s" keyTimes="0;0.5;0.7;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+<animateTransform attributeName="transform" dur="0.5s" keyTimes="0;0.53;0.72;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
 </path>
 <path id="left_leg_down" d="M16.7529 77.1975C19.6657 70.359 19.4165 65.2117 26.9214 66.2841L29.268 68.9287C22.1021 67.3595 21.6025 71.4764 16.7529 77.1975Z" fill="#FF0000" stroke="#FF0000">
-<animateTransform attributeName="transform" dur="0.3s" keyTimes="0; 0.25; 0.5; 1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+<animateTransform attributeName="transform" dur="0.55s" keyTimes="0;0.79;0.99;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+</path>
+<path id="left_leg_2down" d="M23.5236 80.851C24.4941 73.4816 22.8726 68.59 30.39 67.6089L33.3602 69.5266C26.0361 69.9382 26.6598 74.0382 23.5236 80.851Z" fill="#FF0000" stroke="#FF0000">
+<animateTransform attributeName="transform" dur="0.58s" keyTimes="0;0.59;0.79;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
 </path>
 <path id="right_leg_top" d="M94.2443 62.7906C89.2546 56.5978 86.2204 54.4882 79.5827 57.7941L78.2728 61.837C84.5078 58.05 88.0056 58.5357 94.2443 62.7906Z" fill="#FF0000" stroke="#FF0000">
-<animateTransform attributeName="transform" dur="0.3s" keyTimes="0;0.25;0.5;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+<animateTransform attributeName="transform" dur="0.57s" keyTimes="0;0.55;0.7;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
 </path>
 <path id="right_leg_middle" d="M94.1772 72.3037C92.1287 64.6681 87.8557 61.6628 80.2765 61.8346L78.111 64.5463C85.4128 63.8409 90.0897 65.2615 94.1772 72.3037Z" fill="#FF0000" stroke="#FF0000">
-<animateTransform attributeName="transform" dur="0.3s" keyTimes="0;0.6;0.8;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+<animateTransform attributeName="transform" dur="0.55s" keyTimes="0;0.7;0.9;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
 </path>
 <path id="right_leg_down" d="M87.361 77.4066C85.2826 70.2701 86.1425 65.189 78.5633 65.3608L75.9187 67.7073C83.2205 67.002 83.2266 71.1491 87.361 77.4066Z" fill="#FF0000" stroke="#FF0000">
-<animateTransform attributeName="transform" dur="0.3s" keyTimes="0;0.7;0.9;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+<animateTransform attributeName="transform" dur="0.57s" keyTimes="0;0.5;0.77;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
+</path>
+<path id="right_leg_2down" d="M79.9055 81.1207C79.2045 73.7209 81.0033 68.8917 73.5268 67.637L70.4885 69.4451C77.7928 70.1236 77.0199 74.1981 79.9055 81.1207Z" fill="#FF0000" stroke="#FF0000">
+<animateTransform attributeName="transform" dur="0.58s" keyTimes="0;0.7;0.94;1" repeatCount="indefinite" values="0;0, -2; 0;0" />
 </path>
 <circle id="left_eye_ball" cx="44.4501" cy="32.7696" r="5" transform="rotate(3.41698 44.4501 32.7696)" fill="#FF0000"/>
 <circle id="right_eye_ball" cx="63.4164" cy="33.9019" r="5" transform="rotate(3.41698 63.4164 33.9019)" fill="#FF0000"/>

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
 body {
     
     background-color: #276491;
@@ -7,6 +8,7 @@ body {
 
     display:grid;
     grid-template-columns: 1fr 5fr 1fr;
+    font-family: 'Rubik Vinyl', cursive;
 
 }
 .playboard {
@@ -19,7 +21,8 @@ body {
     justify-content: space-between;
 }
 #player_one {
-    background-color: salmon;
+    background-color: #276491;
+    /* background-color: salmon; */
    
 
 }
@@ -35,18 +38,24 @@ body {
 }
 
 #player_two {
-    background-color: sandybrown;
+    background-color: #276491;
+    /* background-color: sandybrown; */
 }
 
 .playerboard__graphics {
-    background-color: indianred;
+    background-color: #276491;
+    /* background-color: indianred; */
     min-height: 70vh;
 
 }
 
 .playerboard__scores {
-    background-color: mistyrose;
+    background-color: #276491;
+    /* background-color: mistyrose; */
     min-height: 20vh;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
 
 }
 #crab_ground {
@@ -58,6 +67,7 @@ body {
     background-color: #276491;
     /* border:1px solid red; */
     display: flex;
+    justify-content: center;
     align-items: flex-end;
     flex-wrap: nowrap;
 }
@@ -69,7 +79,7 @@ body {
 }
 
 #crab_object {
-    animation-name: crap_dance;
+    animation-name: crap_dance_x;
     animation-duration: 8s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
